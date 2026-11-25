@@ -1,0 +1,100 @@
+[
+  {
+    "id": "gin-tonic",
+    "title": "Gin And Tonic",
+    "source": "https://www.thecocktaildb.com/images/media/drink/k0508k1668422436.jpg",
+    "attribution": "pxhere.com",
+    "illustrative": false
+  },
+  {
+    "id": "vodka-orange",
+    "title": "Screwdriver",
+    "source": "https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg",
+    "attribution": null,
+    "illustrative": false
+  },
+  {
+    "id": "rhum-cola",
+    "title": "Cuba Libre",
+    "source": "https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg",
+    "attribution": "Martin Belam (currybet)",
+    "illustrative": false
+  },
+  {
+    "id": "vodka-red-bull",
+    "title": "Vodka Tonic",
+    "source": "https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg",
+    "attribution": null,
+    "illustrative": true
+  },
+  {
+    "id": "mojito",
+    "title": "Mojito",
+    "source": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
+    "attribution": "anilaha https://pixabay.com/users/anilaha-16242978/",
+    "illustrative": false
+  },
+  {
+    "id": "aperol-spritz",
+    "title": "Spritz",
+    "source": "https://www.thecocktaildb.com/images/media/drink/j9evx11504373665.jpg",
+    "attribution": null,
+    "illustrative": false
+  },
+  {
+    "id": "blue-lagoon",
+    "title": "Blue Lagoon",
+    "source": "https://www.thecocktaildb.com/images/media/drink/5wm4zo1582579154.jpg",
+    "attribution": null,
+    "illustrative": false
+  },
+  {
+    "id": "tequila-sunrise",
+    "title": "Tequila Sunrise",
+    "source": "https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg",
+    "attribution": null,
+    "illustrative": false
+  },
+  {
+    "id": "daiquiri",
+    "title": "Daiquiri",
+    "source": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg",
+    "attribution": "Will Shenton",
+    "illustrative": false
+  },
+  {
+    "id": "sex-on-the-beach",
+    "title": "Sex on the Beach",
+    "source": "https://www.thecocktaildb.com/images/media/drink/fi67641668420787.jpg",
+    "attribution": "TheCocktailDB",
+    "illustrative": false
+  },
+  {
+    "id": "jagermeister",
+    "source": "https://www.thecocktaildb.com/images/ingredients/Jagermeister.png"
+  },
+  {
+    "id": "tequila",
+    "source": "https://www.thecocktaildb.com/images/ingredients/Tequila.png"
+  },
+  {
+    "id": "cafe",
+    "source": "https://www.thecocktaildb.com/images/ingredients/Coffee.png"
+  },
+  {
+    "id": "espresso",
+    "source": "https://www.thecocktaildb.com/images/ingredients/Espresso.png"
+  },
+  {
+    "id": "suze",
+    "source": "https://commons.wikimedia.org/wiki/File:Bottle-of-Suze.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Iwai.masaharu\" title=\"User:Iwai.masaharu\">iwaim</a>",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "id": "ricard",
+    "source": "https://commons.wikimedia.org/wiki/File:Pastis_Ricard_Bottle.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:AlMare\" title=\"User:AlMare\">AlMare</a>",
+    "license": "CC BY-SA 2.5"
+  }
+]
